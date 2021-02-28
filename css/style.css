@@ -314,4 +314,29 @@ Social-----*/
 }
 
 
+/*--------
+Reviews-----*/
 
+.reviews {
+    background-color: #53354a;
+}
+
+.reviews__item {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.reviews__photo {
+    width: 50%;
+}
+
+.reviews__content {
+    width: 50%;
+}
+
+.reviews__text {
+    font-family: 'Cardo', sans-serif;
+    font-size: 36px;
+    font-style: italic;
+}
